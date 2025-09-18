@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.Scanner;
 
-// Обновленный UI в master
+// Объединенный UI
 public class Main {
     public static void main(String[] args) {
         RentalSystem system = new RentalSystem();
