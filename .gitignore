@@ -1,0 +1,20 @@
+ 
+# Временные файлы
+*.log
+*.tmp
+*.bak
+
+# Файлы IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Скомпилированные файлы Java
+*.class
+target/
+build/
+
+# Локальные конфигурации
+*.local
